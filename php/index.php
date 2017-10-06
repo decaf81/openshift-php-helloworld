@@ -5,7 +5,7 @@
   <title>Hello World!</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
+    <h1>EHHHHHHHHHHHHHello World!</h1>
     <p>
         <?php
             $con = mysqli_connect(getenv('OPENSHIFT_MYSQL_DB_HOST'), getenv('OPENSHIFT_MYSQL_DB_USERNAME'), 
